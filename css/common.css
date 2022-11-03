@@ -1,0 +1,19 @@
+*{
+	margin:0;
+	padding: 0;
+	line-height:1.5;	
+	color:#000000;
+}
+
+.body{
+	background-color: #00afff;
+}
+.mode_panel{
+  background-color: #f0ffaa;
+}
+.form{
+  background-color: #f0aaff;
+}
+.submit{
+  background-color: #aaffff;
+}
