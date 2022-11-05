@@ -8,6 +8,18 @@
 .body{
 	background-color: #00afff;
 }
+.header{
+  background-color: #aa0000;
+  height: 50px;
+}
+.main{
+  background-color: #ffffff;]
+  height: auto;
+}
+.footer{
+  background-color: #550000;
+  height: 30px;
+}
 .mode_panel{
   background-color: #f0ffaa;
 }
